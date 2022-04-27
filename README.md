@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Ebeid</h1>
 <h2 align="center">Android developer | Desktop developer</h2>
 
-<h3>- 🌱 I’m currently learning Android development with java
+<h3>- 🌱 I’m currently learning Android development with java☕
 
 - 👨‍💻 All of my projects are available at <b><a href="https://github.com/AhmedEbeid4">My Github Account</a></b>
 
