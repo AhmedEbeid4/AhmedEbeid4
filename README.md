@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ahmed Ebeid</h1>
-<h3 align="center">Android developer | Desktop developer</h3>
+<h2 align="center">Android developer | Desktop developer</h2>
 
-- 🌱 I’m currently learning **Android development with java**
+<h3>- 🌱 I’m currently learning **Android development with java**
 
 - 👨‍💻 All of my projects are available at <b><a href="https://github.com/AhmedEbeid4">My Github Account</a></b>
 
 - 📫 How to reach me **ebeidahmed2@gmail.com**
 
 - 📄 Know about my experiences by <b><a href="https://drive.google.com/file/d/1_MQqxtUqLAgbSramq5og4FFKzynONhBm/view?usp=sharing">My CV</a></b>
+  </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
