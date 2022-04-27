@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Ebeid</h1>
-<h2 align="center" style="background-color:black;">Android developer | Desktop developer</h2>
+<h2 align="center">Android developer | Desktop developer</h2>
 
 <h3>- 🌱 I’m currently learning **Android development with java**
 
