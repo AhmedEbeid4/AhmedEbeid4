@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **Android development with java**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AhmedEbeid4](https://github.com/AhmedEbeid4)
+- 👨‍💻 All of my projects are available at <b><a href="https://github.com/AhmedEbeid4">My Github Account</a></b>
 
 - 📫 How to reach me **ebeidahmed2@gmail.com**
 
-- 📄 Know about my experiences by <a href="https://drive.google.com/file/d/1_MQqxtUqLAgbSramq5og4FFKzynONhBm/view?usp=sharing">My CV</a>
+- 📄 Know about my experiences by <b><a href="https://drive.google.com/file/d/1_MQqxtUqLAgbSramq5og4FFKzynONhBm/view?usp=sharing">My CV</a></b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
