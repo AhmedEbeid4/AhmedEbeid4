@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ebeidahmed2@gmail.com**
 
-- 📄 Know about my experiences by <b><a href="https://drive.google.com/file/d/1ej7mKyTS36EQ6t6fdtCKe_HnLpavvqXX/view?usp=drivesdk">My CV</a></b>
+- 📄 Know about my experiences by <b><a href="https://drive.google.com/file/d/1ej7mKyTS36EQ6t6fdtCKe_HnLpavvqXX/view?usp=drivesdk" target="blank">My CV</a></b>
   </h3>
 
 <h3 align="left">Connect with me:</h3>
