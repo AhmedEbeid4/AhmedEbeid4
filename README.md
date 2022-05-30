@@ -1,6 +1,11 @@
 <h1 align="center">Hi , I'm Ahmed Ebeid <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3500&center=true&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
-<h3>- 🌱 I’m currently learning Android development with java☕
+<h2>Android Developer | Desktop Developer</h2>
+- :technologist: I love using Software as a solution for every `Problem`
+- :student: I’m currently learning: `Android Development`
+- :thinking: I’m currently open for: `An Internship` or a new `job opportunity`, this is [MY RESUME][(https://drive.google.com/file/d/1gdiny_4f5TVbSdfyAQxokLMMrBTi054P/view?usp=sharing)](https://drive.google.com/file/d/1ej7mKyTS36EQ6t6fdtCKe_HnLpavvqXX/view?usp=drivesdk).
+- :nerd_face: Always `learning new frameworks`
+<h3>
+  - 🌱 I’m currently learning Android development with java☕
 
 - 👨‍💻 All of my projects are available at <b><a href="https://github.com/AhmedEbeid4">My Github Account</a></b>
 
