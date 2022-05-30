@@ -4,7 +4,7 @@
 
 <h3>- 👨‍💻 All of my projects are available at <b><a href="https://github.com/AhmedEbeid4">My Github Account</a></b></h3>
 
-<h3>- 📫 How to reach me **ebeidahmed2@gmail.com**</h3>
+<h3>- 📫 How to reach me ebeidahmed2@gmail.com</h3>
 
 <h3>- 📄 Know about my experiences by <b><a href="https://drive.google.com/file/d/1ej7mKyTS36EQ6t6fdtCKe_HnLpavvqXX/view?usp=drivesdk" target="_blank">My Resume</a></b>
   </h3>
