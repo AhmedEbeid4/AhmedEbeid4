@@ -1,13 +1,12 @@
 <h1 align="center">Hi , I'm Ahmed Ebeid <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h2 align="center">Android Developer | Desktop Developer</h2>
-<h3>
-- 🌱 I’m currently learning Android development with java☕
+<h3>- 🌱 I’m currently learning Android development with java☕</h3>
 
-- 👨‍💻 All of my projects are available at <b><a href="https://github.com/AhmedEbeid4">My Github Account</a></b>
+<h3>- 👨‍💻 All of my projects are available at <b><a href="https://github.com/AhmedEbeid4">My Github Account</a></b></h3>
 
-- 📫 How to reach me **ebeidahmed2@gmail.com**
+<h3>- 📫 How to reach me **ebeidahmed2@gmail.com**</h3>
 
-- 📄 Know about my experiences by <b><a href="https://drive.google.com/file/d/1ej7mKyTS36EQ6t6fdtCKe_HnLpavvqXX/view?usp=drivesdk" target="_blank">My Resume</a></b>
+<h3>- 📄 Know about my experiences by <b><a href="https://drive.google.com/file/d/1ej7mKyTS36EQ6t6fdtCKe_HnLpavvqXX/view?usp=drivesdk" target="_blank">My Resume</a></b>
   </h3>
 
 <h3 align="left">Connect with me:</h3>
