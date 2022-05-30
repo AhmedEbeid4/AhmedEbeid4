@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Ahmed Ebeid <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h2>Android Developer | Desktop Developer</h2>
+<center><h2>Android Developer | Desktop Developer</h2></center>
 <h3>
 - 🌱 I’m currently learning Android development with java☕
 
