@@ -1,5 +1,6 @@
 <h1 align="center">Hi , I'm Ahmed Ebeid <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h2>Android Developer | Desktop Developer</h2>
+## :sassy_man:  About me
 - :technologist: I love using Software as a solution for every `Problem`
 - :student: I’m currently learning: `Android Development`
 - :thinking: I’m currently open for: `An Internship` or a new `job opportunity`, this is [MY RESUME][(https://drive.google.com/file/d/1gdiny_4f5TVbSdfyAQxokLMMrBTi054P/view?usp=sharing)](https://drive.google.com/file/d/1ej7mKyTS36EQ6t6fdtCKe_HnLpavvqXX/view?usp=drivesdk).
