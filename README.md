@@ -1,6 +1,5 @@
 <h1 align="center">Hi , I'm Ahmed Ebeid <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h2 align="center">Android developer | Desktop developer</h2>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3500&center=true&lines=Android+Developer;Desktop+Developer;Good+Problem+Solver)](https://git.io/typing-svg)
 <h3>- 🌱 I’m currently learning Android development with java☕
 
 - 👨‍💻 All of my projects are available at <b><a href="https://github.com/AhmedEbeid4">My Github Account</a></b>
