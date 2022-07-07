@@ -3,8 +3,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=Android+Developer;Desktop+Developer)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&lines=Android+Developer;Desktop+Developer)](https://git.io/typing-svg)
 
 
 
