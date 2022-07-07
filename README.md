@@ -6,7 +6,8 @@
 
 <center>
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&center=true&vCenter=true&lines=Android+Developer;Desktop+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&lines=Android+Developer;Desktop+Developer)](https://git.io/typing-svg)
+  
   
 </center>
 
