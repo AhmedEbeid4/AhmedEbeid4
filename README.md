@@ -4,7 +4,11 @@
 <br>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&center=true&vCenter=true&lines=Android+Developer;Desktop+Developer)](https://git.io/typing-svg)
+<center>
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&center=true&vCenter=true&lines=Android+Developer;Desktop+Developer)](https://git.io/typing-svg)
+  
+</center>
 
 
 
