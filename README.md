@@ -1,13 +1,14 @@
 <h1 align="center">I'm Ahmed Ebeid <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">An Android developer | Desktop developer</h3>
 
-- 🌱 I’m currently learning **Android development with java**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&lines=Android+Developer;Desktop+Developer)](https://git.io/typing-svg)
 
-- 👨‍💻 All of my projects are available at [https://github.com/AhmedEbeid4](https://github.com/AhmedEbeid4)
+- 🌱 I’m currently learning Android development using Java & Kotlin
 
-- 📫 How to reach me **ebeidahmed2@gmail.com**
+- 👨‍💻 All of my projects are available at <a href="https://github.com/AhmedEbeid4">My Github Account</a>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_MQqxtUqLAgbSramq5og4FFKzynONhBm/view?usp=sharing](https://drive.google.com/file/d/1_MQqxtUqLAgbSramq5og4FFKzynONhBm/view?usp=sharing)
+- 📫 How to reach me ebeidahmed2@gmail.com
+
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1exvx1dRZi65yB7G-uwu3Z5XtrUO4vONP/view?usp=sharing">My Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
