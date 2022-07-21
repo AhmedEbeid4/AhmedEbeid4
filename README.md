@@ -30,18 +30,17 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedebeid4&show_icons=true&locale=en&layout=compact" alt="ahmedebeid4" /></p>
+<br>
+<br>
+<br>
 
-<br>
-<br>
-<br>
 
 <h1>Samples From My Projects</h1>
 
 <br>
 
 <center>
-<h2> Weather App using API</h2>
+<h3> Weather App using API</h3>
 <a href="https://github.com/AhmedEbeid4/Weather-App">
 
 <img align="center" src="https://user-images.githubusercontent.com/90563044/177055519-4b570787-2594-451a-b17d-070c7821159e.jpeg"  width="500" height="300"  />
@@ -52,7 +51,7 @@
 
 
 <center>
-<h2>Netfix App</h2>
+<h3>Netfix App</h3>
 <a href="https://github.com/AhmedEbeid4/Netflix-App">
 <img align="center" src="https://user-images.githubusercontent.com/90563044/178348780-edf780ac-a249-4ecd-9468-66360521f5ab.jpeg"  width="500" height="300" />
 </a>
@@ -63,9 +62,19 @@
 
 
 <center>
-<h2>Order & Eat App</h2>
+<h3>Order & Eat App</h3>
 <a href="https://github.com/AhmedEbeid4/Order-Eat-App">
 <img align="center" src="https://user-images.githubusercontent.com/90563044/177055547-1f3e9839-d9d1-4089-b085-2f0ed39466de.jpeg"   width="500" height="300"/>
 </a>
 </center>
+
+
+<br>
+<br>
+<br>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedebeid4&show_icons=true&locale=en&layout=compact" alt="ahmedebeid4" /></p>
+
+
+
 
