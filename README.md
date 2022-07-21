@@ -3,7 +3,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&lines=Android+Developer;Desktop+Developer)](https://git.io/typing-svg)
 
 <h3>
-- 🌱 I’m currently learning Android development using <b> Java</b> & <b> Kotlin </b></h3>
+  
+- 🌱 I’m currently learning Android development using <b> Java</b> & <b> Kotlin </b>
+
+</h3>
 
 <h3>
 
