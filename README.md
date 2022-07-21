@@ -2,6 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&lines=Android+Developer;Desktop+Developer)](https://git.io/typing-svg)
 
+<h4>
 - 🌱 I’m currently learning Android development using <b> Java</b> & <b> Kotlin </b>
 
 - 👨‍💻 All of my projects are available at <b><a href="https://github.com/AhmedEbeid4">My Github Account</a></b>
@@ -9,6 +10,7 @@
 - 📫 How to reach me <b>ebeidahmed2@gmail.com</b>
 
 - 📄 Know about my experiences <b><a href="https://drive.google.com/file/d/1exvx1dRZi65yB7G-uwu3Z5XtrUO4vONP/view?usp=sharing">My Resume</a></b>
+</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
