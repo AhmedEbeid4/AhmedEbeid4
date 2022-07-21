@@ -39,14 +39,14 @@
 <h2>Samples From My Projects</h2>
 
 
-<img align="center" src="https://user-images.githubusercontent.com/90563044/177055519-4b570787-2594-451a-b17d-070c7821159e.jpeg"  width="40" height="40"  />
+<img align="center" src="https://user-images.githubusercontent.com/90563044/177055519-4b570787-2594-451a-b17d-070c7821159e.jpeg"  width="200" height="80"  />
 
 
 
 
 
 
-<img align="center" src="https://user-images.githubusercontent.com/90563044/178348780-edf780ac-a249-4ecd-9468-66360521f5ab.jpeg"  width="40" height="40" />
+<img align="center" src="https://user-images.githubusercontent.com/90563044/178348780-edf780ac-a249-4ecd-9468-66360521f5ab.jpeg"  width="200" height="80" />
 
 
 
@@ -54,6 +54,6 @@
 
 
 
-<img align="center" src="https://user-images.githubusercontent.com/90563044/177055547-1f3e9839-d9d1-4089-b085-2f0ed39466de.jpeg"   width="40" height="40"/>
+<img align="center" src="https://user-images.githubusercontent.com/90563044/177055547-1f3e9839-d9d1-4089-b085-2f0ed39466de.jpeg"   width="200" height="80"/>
 
 
