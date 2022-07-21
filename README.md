@@ -34,7 +34,8 @@
 
 <h2>Samples From My Projects</h2>
 
-![poster2](https://user-images.githubusercontent.com/90563044/177055519-4b570787-2594-451a-b17d-070c7821159e.jpeg)
+<img align="center" src="https://user-images.githubusercontent.com/90563044/177055519-4b570787-2594-451a-b17d-070c7821159e.jpeg"  />
+
 
 
 
