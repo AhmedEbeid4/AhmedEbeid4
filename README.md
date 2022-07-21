@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at <b><a href="https://github.com/AhmedEbeid4">My Github Account</a></b>
 
-- 📫 How to reach me ebeidahmed2@gmail.com
+- 📫 How to reach me <b>ebeidahmed2@gmail.com</b>
 
 - 📄 Know about my experiences <b><a href="https://drive.google.com/file/d/1exvx1dRZi65yB7G-uwu3Z5XtrUO4vONP/view?usp=sharing">My Resume</a></b>
 
