@@ -4,7 +4,7 @@
 
 <h3>
   
-- 🌱 I’m currently learning Android development <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/>&nbsp; using    <b> Java</b> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>&nbsp; & <b> Kotlin </b><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="java" width="30" height="30"/>
+- 🌱 I’m currently learning Android development <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/>&nbsp; using    <b> Java</b> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>&nbsp; & <b> Kotlin </b><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="java" width="30" height="20"/>
 
 </h3>
 
