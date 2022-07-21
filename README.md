@@ -73,7 +73,7 @@
 <br>
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedebeid4&show_icons=true&locale=en&layout=compact" alt="ahmedebeid4" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedebeid4&show_icons=true&locale=en&layout=compact" alt="ahmedebeid4" width="800" height="500"/></p>
 
 
 
