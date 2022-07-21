@@ -13,7 +13,7 @@
 
 
 
-<h3>- 🌱 I’m currently learning Android development with java☕ & Kotlin </h3>
+<h3>- 🌱 I’m currently learning Android development using java & Kotlin </h3>
 
 <h3>- 👨‍💻 All of my projects are available at <b><a href="https://github.com/AhmedEbeid4">My Github Account</a></b></h3>
 
