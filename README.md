@@ -2,13 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&lines=Android+Developer;Desktop+Developer)](https://git.io/typing-svg)
 
-- 🌱 I’m currently learning Android development using Java & Kotlin
+- 🌱 I’m currently learning Android development using <b> Java</b> & <b> Kotlin </b>
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/AhmedEbeid4">My Github Account</a>
+- 👨‍💻 All of my projects are available at <b><a href="https://github.com/AhmedEbeid4">My Github Account</a></b>
 
 - 📫 How to reach me ebeidahmed2@gmail.com
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1exvx1dRZi65yB7G-uwu3Z5XtrUO4vONP/view?usp=sharing">My Resume</a>
+- 📄 Know about my experiences <b><a href="https://drive.google.com/file/d/1exvx1dRZi65yB7G-uwu3Z5XtrUO4vONP/view?usp=sharing">My Resume</a></b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
