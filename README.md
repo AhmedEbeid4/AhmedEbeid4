@@ -40,10 +40,10 @@
 <br>
 
 <center>
-<h3> Weather App using API</h3>
+<h3 align="center"> Weather App using API</h3>
 <a href="https://github.com/AhmedEbeid4/Weather-App">
 
-<img align="center" src="https://user-images.githubusercontent.com/90563044/177055519-4b570787-2594-451a-b17d-070c7821159e.jpeg"  width="500" height="300"  />
+<img align="center" src="https://user-images.githubusercontent.com/90563044/177055519-4b570787-2594-451a-b17d-070c7821159e.jpeg"/>
 </center>
 
 <br>
