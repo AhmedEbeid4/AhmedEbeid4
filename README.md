@@ -44,6 +44,7 @@
 <a href="https://github.com/AhmedEbeid4/Weather-App">
 
 <img align="center" src="https://user-images.githubusercontent.com/90563044/177055519-4b570787-2594-451a-b17d-070c7821159e.jpeg"/>
+  </a>
   <br>
   <p align="center">
     Using Rest API which called openweathermap to get the weather data.
