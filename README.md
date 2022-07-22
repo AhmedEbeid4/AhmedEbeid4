@@ -8,14 +8,15 @@
 
 </h3>
 
-
-- 📫 How to reach me <b>ebeidahmed2@gmail.com</b></h3>
+<h3>
+- 📫 How to reach me <b>ebeidahmed2@gmail.com</b>
+</h3>
 
 <h3>
 
 - 📄 Know about my experiences <b><a href="https://drive.google.com/file/d/1exvx1dRZi65yB7G-uwu3Z5XtrUO4vONP/view?usp=sharing">My Resume</a></b></h3>
 
-
+</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ahmed-ebeid-901702217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-e-901702217/" height="30" width="40" /></a>
