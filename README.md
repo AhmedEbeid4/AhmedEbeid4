@@ -67,6 +67,7 @@
 <img align="center" src="https://user-images.githubusercontent.com/90563044/178348780-edf780ac-a249-4ecd-9468-66360521f5ab.jpeg"  />
 </a>
   <br>
+  <h4 align="center">Android</h4>
   <p align="center">
 A movie app 📱🎦like Netflix that has a regester form and I had used 'google' text field to make the design more professional
     <br>
