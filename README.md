@@ -62,7 +62,7 @@
 
 
 <center>
-<h3>Netfix App</h3>
+<h3 align="center">Netfix App</h3>
 <a href="https://github.com/AhmedEbeid4/Netflix-App">
 <img align="center" src="https://user-images.githubusercontent.com/90563044/178348780-edf780ac-a249-4ecd-9468-66360521f5ab.jpeg"  />
 </a>
@@ -83,9 +83,9 @@ The application has show details screen to make the user able to see some detail
 
 
 <center>
-<h3>Order & Eat App</h3>
+<h3 align="center">Order & Eat App</h3>
 <a href="https://github.com/AhmedEbeid4/Order-Eat-App">
-<img align="center" src="https://user-images.githubusercontent.com/90563044/177055547-1f3e9839-d9d1-4089-b085-2f0ed39466de.jpeg"   width="500" height="300"/>
+<img align="center" src="https://user-images.githubusercontent.com/90563044/177055547-1f3e9839-d9d1-4089-b085-2f0ed39466de.jpeg"   />
 </a>
 </center>
 
