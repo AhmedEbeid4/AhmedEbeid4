@@ -92,7 +92,7 @@ The application has show details screen to make the user able to see some detail
    <p align="center">
 The application allows you to order different types of food 🍔🍕🍞 with required quantities and providing an interface to register your data as a consumer in the restaurant that we had showed in a list View
     <br>
-    Languages Used: Java , XML , SQL
+    Languages Used: Java , XML 
     <br>
     You Can Check <a href="https://github.com/AhmedEbeid4/Order-Eat-App">Project Repository</a>
   </p>
