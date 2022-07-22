@@ -46,6 +46,8 @@
 <img align="center" src="https://user-images.githubusercontent.com/90563044/177055519-4b570787-2594-451a-b17d-070c7821159e.jpeg"/>
   </a>
   <br>
+    <h4 align="center">Android App</h4>
+
   <p align="center">
     Using Rest API which called openweathermap to get the weather data.
     <br>
@@ -67,7 +69,7 @@
 <img align="center" src="https://user-images.githubusercontent.com/90563044/178348780-edf780ac-a249-4ecd-9468-66360521f5ab.jpeg"  />
 </a>
   <br>
-  <h4 align="center">Android</h4>
+  <h4 align="center">Android App</h4>
   <p align="center">
 A movie app 📱🎦like Netflix that has a regester form and I had used 'google' text field to make the design more professional
     <br>
@@ -88,6 +90,8 @@ The application has show details screen to make the user able to see some detail
 <a href="https://github.com/AhmedEbeid4/Order-Eat-App">
 <img align="center" src="https://user-images.githubusercontent.com/90563044/177055547-1f3e9839-d9d1-4089-b085-2f0ed39466de.jpeg"   />
 </a>
+    <h4 align="center">Android App</h4>
+
    <p align="center">
 The application allows you to order different types of food 🍔🍕🍞 with required quantities and providing an interface to register your data as a consumer in the restaurant that we had showed in a list View
     <br>
