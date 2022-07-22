@@ -58,7 +58,7 @@
     You Can Check <a href="https://github.com/AhmedEbeid4/Weather-App">Project Repository</a>
   </p>
 </center>
-
+<hr>
 <br>
 <br>
 
