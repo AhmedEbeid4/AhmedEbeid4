@@ -46,7 +46,7 @@
 <img align="center" src="https://user-images.githubusercontent.com/90563044/177055519-4b570787-2594-451a-b17d-070c7821159e.jpeg"/>
   </a>
   <br>
-  <h5 align="center">
+  <p align="center">
     Using Rest API which called openweathermap to get the weather data.
     <br>
     The application gets the location of the user while looping in the spalsh screen, Then getting the weather data of his location via The API using ION package, and  by getting some data from Json Arrays and Objects from the API.
@@ -54,7 +54,7 @@
     Languages: Java , XML , SQL
     <br>
     You Can Check <a href="https://github.com/AhmedEbeid4/Weather-App">Project Repository</a>
-  </h5>
+  </p>
 </center>
 
 <br>
@@ -64,8 +64,18 @@
 <center>
 <h3>Netfix App</h3>
 <a href="https://github.com/AhmedEbeid4/Netflix-App">
-<img align="center" src="https://user-images.githubusercontent.com/90563044/178348780-edf780ac-a249-4ecd-9468-66360521f5ab.jpeg"  width="500" height="300" />
+<img align="center" src="https://user-images.githubusercontent.com/90563044/178348780-edf780ac-a249-4ecd-9468-66360521f5ab.jpeg"  />
 </a>
+  <br>
+  <p align="center">
+A movie app 📱🎦like Netflix that has a regester form and I had used 'google' text field to make the design more professional
+    <br>
+The application has show details screen to make the user able to see some details about the movie like movie poster , rate , actors, or add the movie to the favourits
+    <br>
+    Languages: Java , XML , SQL
+    <br>
+    You Can Check <a href="https://github.com/AhmedEbeid4/Netflix-App">Project Repository</a>
+  </p>
 </center>
 
 <br>
