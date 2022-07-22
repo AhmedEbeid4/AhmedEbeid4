@@ -60,7 +60,6 @@
 </center>
 <hr>
 <br>
-<br>
 
 
 <center>
@@ -81,7 +80,7 @@ The application has show details screen to make the user able to see some detail
   </p>
 </center>
 
-<br>
+<hr>
 <br>
 
 
@@ -102,7 +101,7 @@ The application allows you to order different types of food 🍔🍕🍞 with re
 </center>
 
 
-<br>
+<hr>
 <br>
 <br>
 
