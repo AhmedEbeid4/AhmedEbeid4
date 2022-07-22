@@ -51,7 +51,7 @@
     <br>
     The application gets the location of the user while looping in the spalsh screen, Then getting the weather data of his location via The API using ION package, and  by getting some data from Json Arrays and Objects from the API.
     <br>
-    Languages: Java , XML , SQL
+    Languages Used: Java , XML , SQL
     <br>
     You Can Check <a href="https://github.com/AhmedEbeid4/Weather-App">Project Repository</a>
   </p>
@@ -72,7 +72,7 @@ A movie app 📱🎦like Netflix that has a regester form and I had used 'google
     <br>
 The application has show details screen to make the user able to see some details about the movie like movie poster , rate , actors, or add the movie to the favourits
     <br>
-    Languages: Java , XML , SQL
+    Languages Used: Java , XML , SQL
     <br>
     You Can Check <a href="https://github.com/AhmedEbeid4/Netflix-App">Project Repository</a>
   </p>
@@ -87,6 +87,13 @@ The application has show details screen to make the user able to see some detail
 <a href="https://github.com/AhmedEbeid4/Order-Eat-App">
 <img align="center" src="https://user-images.githubusercontent.com/90563044/177055547-1f3e9839-d9d1-4089-b085-2f0ed39466de.jpeg"   />
 </a>
+   <p align="center">
+The application allows you to order different types of food 🍔🍕🍞 with required quantities and providing an interface to register your data as a consumer in the restaurant that we had showed in a list View
+    <br>
+    Languages Used: Java , XML , SQL
+    <br>
+    You Can Check <a href="https://github.com/AhmedEbeid4/Order-Eat-App">Project Repository</a>
+  </p>
 </center>
 
 
