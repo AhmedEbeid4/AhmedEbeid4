@@ -8,11 +8,6 @@
 
 </h3>
 
-<h3>
-
-- 👨‍💻 All of my projects are available at <b><a href="https://github.com/AhmedEbeid4">My Github Account</a></b></h3>
-
-<h3>
 
 - 📫 How to reach me <b>ebeidahmed2@gmail.com</b></h3>
 
