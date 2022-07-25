@@ -103,8 +103,8 @@ The application allows you to order different types of food 🍔🍕🍞 with re
 <br>
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedebeid4&show_icons=true&locale=en&layout=compact" alt="ahmedebeid4" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedebeid4&show_icons=true&theme=radical"/>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedebeid4&show_icons=true&locale=en&layout=compact" alt="ahmedebeid4" height="300" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedebeid4&show_icons=true&theme=radical" height="300"/>
 </p>
 
 
