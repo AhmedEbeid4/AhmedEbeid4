@@ -61,7 +61,7 @@
 
 
 <center>
-<h3 align="center">Netfix App</h3>
+<h3 align="center">Netflix App</h3>
 <a href="https://github.com/AhmedEbeid4/Netflix-App">
 <img align="center" src="https://user-images.githubusercontent.com/90563044/178348780-edf780ac-a249-4ecd-9468-66360521f5ab.jpeg"  />
 </a>
