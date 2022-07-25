@@ -109,7 +109,7 @@ The application allows you to order different types of food 🍔🍕🍞 with re
 
 
 
-<br>
+<hr>
 
 
 
